@@ -5,7 +5,7 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
-    plugins: [react(), tailwindcss()],
+    plugins: [react(), tailwindcss()],base: '/personal_finance_tracker/',
     resolve: {
       alias: {
         '@': path.resolve(__dirname, '.'),
