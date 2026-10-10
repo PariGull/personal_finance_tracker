@@ -1,0 +1,6 @@
+{
+  "name": "Personal Finance Tracker with Forecasting",
+  "description": "Portfolio project featuring SQLite, Streamlit, time-series forecasting (ARIMA, Holt-Winters, OLS, Moving Average), outlier detection, and mathematical derivations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
