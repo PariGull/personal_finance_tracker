@@ -184,3 +184,5 @@ pytest tests/ -v
    - Add a `Dockerfile` and one-click deployment configuration for Streamlit Cloud or Google Cloud Run.
 5. **Monte Carlo Financial Independence / FIRE Simulation**:
    - Project wealth accumulation, net worth trajectories, and retirement horizons under geometric Brownian motion stochastic market returns.
+   - Deployment test for GitHub Pages.
+
